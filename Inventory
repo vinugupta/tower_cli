@@ -1,5 +1,4 @@
 ---
-all:
-  hosts:
+ansible.dev:
     - 10.0.15.45
 
