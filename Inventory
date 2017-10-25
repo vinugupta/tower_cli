@@ -1,5 +1,5 @@
 ---
-vagrant:
-  ip:
+all:
+  hosts:
     - 10.0.15.45
 
