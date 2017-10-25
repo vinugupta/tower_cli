@@ -1,3 +1,4 @@
-[ansible.dev]
-10.0.15.45
+---
+ansible.dev:
+    10.0.15.45
 
