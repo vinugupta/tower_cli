@@ -1,2 +1,5 @@
-[defaults]
-ansible.dev ansibe_host=10.0.15.45
+all:
+   hosts:
+       10.0.15.45
+   
+
